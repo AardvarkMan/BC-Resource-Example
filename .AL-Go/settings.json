@@ -1,6 +1,6 @@
 {
   "country": "us",
-  "appFolders": [],
+  "appFolders": ["BC Resource Example"],
   "testFolders": [],
   "bcptTestFolders": []
 }

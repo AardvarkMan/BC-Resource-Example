@@ -1,0 +1,28 @@
+{
+    "companies": [
+      {
+        "name": "Tech Innovators Inc.",
+        "industry": "Technology",
+        "founded": 2010,
+        "employees": 500,
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      {
+        "name": "Green Earth Solutions",
+        "industry": "Environmental Services",
+        "founded": 2005,
+        "employees": 200,
+        "city": "Portland",
+        "state": "OR"
+      },
+      {
+        "name": "HealthFirst Medical",
+        "industry": "Healthcare",
+        "founded": 1998,
+        "employees": 1000,
+        "city": "Boston",
+        "state": "MA"
+      }
+    ]
+  }
